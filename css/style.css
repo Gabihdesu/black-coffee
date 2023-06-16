@@ -270,6 +270,7 @@ ul {
 .mapa iframe {
   border: 0.25rem solid #BB641D;
   margin: 3rem auto;
+  max-width: 1200px;
 }
 
 @media (max-width:780px) {
@@ -279,6 +280,7 @@ ul {
 
   .mapa iframe {
     width: 25rem;
+    max-width: 300px;
   }
 }
 
