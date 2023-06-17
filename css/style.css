@@ -278,9 +278,9 @@ ul {
     flex-wrap: wrap;
   }
 
-  .mapa iframe {
-    width: 220rem;
-    height: 312rem;
+   .mapa iframe {
+    width: 100%;
+    height: auto;
   }
 }
 
